@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=40&duration=3000&pause=400&multiline=true&width=435&height=100&repeat=false&lines=Protecting+Today%2C+;Creating+Tomorrow)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=40&duration=3000&pause=400&multiline=true&width=435&height=100&lines=Protecting+Today%2C+;Creating+Tomorrow)
 
 ## Hi there 👋
 ### 🔧 Technologies & Tools
