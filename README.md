@@ -1,5 +1,7 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=40&duration=3000&pause=400&multiline=true&width=435&height=100&lines=Protecting+Today%2C+;Creating+Tomorrow)
 
+## Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ty-kmu&theme=dark)
 <!--
 **ty-kmu/ty-kmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
