@@ -42,8 +42,12 @@
 
 ### ⚡ Stats
 
-![GitHub stats](https://git-stats-qwqw.vercel.app/api?username=ty-kmu&theme=dark&include_all_commits=true&count_private=true&)
-![Top Langs](https://git-stats-qwqw.vercel.app/api/top-langs/?username=ty-kmu&theme=dark&layout=compact)
+<div>
+<img height=180 align="center" src="https://git-stats-qwqw.vercel.app/api?username=ty-kmu&theme=dark&include_all_commits=true&count_private=true" />
+
+<img height=180 align="center" src="https://git-stats-qwqw.vercel.app/api/top-langs/?username=ty-kmu&theme=dark&layout=compact&count_private=true" />
+</div>
+
 <!--
 **ty-kmu/ty-kmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
