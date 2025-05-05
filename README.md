@@ -6,6 +6,7 @@
 ☁️ My work centers on developing intelligent cloud infrastructures that autonomously provide optimal environments for diverse AI workloads.
 
 💡 I’m especially interested in cost optimization strategies using idle cloud resources, enabling efficient and scalable AI service deployment.
+
 🔬 Through hands-on development and applied research, I aim to contribute to the evolution of cloud computing—making it smarter, more adaptive, and more accessible.
 
 ### 🔧 Technologies
