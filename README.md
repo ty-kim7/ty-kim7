@@ -9,7 +9,7 @@
 
 🔬 Through hands-on development and applied research, I aim to contribute to the evolution of cloud computing—making it smarter, more adaptive, and more accessible.
 
-### 🔧 Technologies
+## 🔧 Technologies
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -24,7 +24,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![AZURE](https://img.shields.io/badge/Azure-%2300a3ee.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
-### ⚡ Stats
+## ⚡ Stats
 
 <div>
 <img height=180 align="center" src="https://git-stats-qwqw.vercel.app/api?username=ty-kim7&theme=dark&include_all_commits=true&count_private=true" />
